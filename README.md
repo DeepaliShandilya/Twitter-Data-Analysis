@@ -1,2 +1,2 @@
-# Twitter-Data-Analysis
-twitter data analysis using hadoop
+# Twitter-Data
+Data Analysis of twitter using BIG DATA concepts.
